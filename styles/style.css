@@ -1,0 +1,31 @@
+body{  background-color: lightblue;}
+div#main{width:100%;height:auto;}
+
+div#menu ul{background-color:skyblue;}
+div#menu ul a{display:inline;margin-left:1.60%;font-size:24px;text-decoration:none;margin-right:3%;}
+a:hover{color:black;background-color: gray;}
+div#logo {width:100%;}
+
+div.headerimage {width:90%;height:auto;margin-left:5%;margin-right:6%;margin-top:-1%;}
+div.headerimage img{width:100%;height:auto;margin:auto;}
+div.speedDial {width:91%;height:auto;margin-left:5%;}
+
+span.highlight { background-color: White;}
+
+div#firstside{width:50%;display:inline-block;float:left;margin-left:7%;}
+
+div#footer img{width:14%;display:block;float:left;margin-right:8%;margin-top:5%;}
+
+div#secondside{width:40%;display:block;float:right;}
+div#secondside p{width:85%;margin-top:7%;font-size:22px;margin-right:10%;}
+div#footer{width:100%;
+height:auto;
+
+margin-left:auto;
+margin-bottom:auto;
+margin-right:auto;
+display: block;
+float:left;	
+background-color:#c3b46c;}
+
+
